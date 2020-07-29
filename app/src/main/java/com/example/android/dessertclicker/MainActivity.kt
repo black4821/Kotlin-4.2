@@ -18,7 +18,6 @@ package com.example.android.dessertclicker
 
 import android.content.ActivityNotFoundException
 import android.os.Bundle
-import android.util.Log
 import android.view.Menu
 import android.view.MenuItem
 import android.widget.Toast
@@ -71,7 +70,7 @@ class MainActivity : AppCompatActivity() {
 
         super.onCreate(savedInstanceState)
         Timber.i("onCreate called")
-        dessertTimer = DessertTimer()
+        dessertTimer = DessertTimer(this.lifecycle)
         // Use Data Binding to get reference to the views
         binding = DataBindingUtil.setContentView(this, R.layout.activity_main)
 
