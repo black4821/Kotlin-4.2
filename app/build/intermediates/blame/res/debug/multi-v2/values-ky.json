@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\sorra\\AndroidStudioProjects\\Kotlin-4.1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ky\\values-ky.xml",
+            "outputFile": "C:\\Users\\sorra\\AndroidStudioProjects\\Kotlin-4.2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ky\\values-ky.xml",
             "map": [
                 {
                     "source": "C:\\Users\\sorra\\.gradle\\caches\\transforms-2\\files-2.1\\708f89b5b8a66ba2f2f6a7c11cbbef61\\appcompat-1.0.0\\res\\values-ky\\values-ky.xml",

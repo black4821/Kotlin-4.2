@@ -36,6 +36,8 @@ class MainActivity : AppCompatActivity() {
     // Contains all the views
     private lateinit var binding: ActivityMainBinding
 
+
+
     /** Dessert Data **/
 
     /**
@@ -63,9 +65,13 @@ class MainActivity : AppCompatActivity() {
     )
     private var currentDessert = allDesserts[0]
 
+    private lateinit var dessertTimer : DessertTimer;
+
     override fun onCreate(savedInstanceState: Bundle?) {
-        Timber.i("onCreate called")
+
         super.onCreate(savedInstanceState)
+        Timber.i("onCreate called")
+        dessertTimer = DessertTimer()
         // Use Data Binding to get reference to the views
         binding = DataBindingUtil.setContentView(this, R.layout.activity_main)
 
@@ -81,10 +87,12 @@ class MainActivity : AppCompatActivity() {
         binding.dessertButton.setImageResource(currentDessert.imageId)
     }
 
+
     override fun onStart() {
         super.onStart()
+        dessertTimer.startTimer()
 
-        Timber.i("onStart Called")
+        Timber.i("onStart called")
     }
 
     override fun onResume() {
@@ -99,6 +107,8 @@ class MainActivity : AppCompatActivity() {
 
     override fun onStop() {
         super.onStop()
+        dessertTimer.stopTimer()
+
         Timber.i("onStop Called")
     }
 

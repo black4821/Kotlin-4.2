@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml:17:1-37:12
-INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml:17:1-37:12
-INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml:17:1-37:12
-INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml:17:1-37:12
+ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml:17:1-37:12
 MERGED from [androidx.databinding:databinding-adapters:4.0.0] C:\Users\sorra\.gradle\caches\transforms-2\files-2.1\8efa69dcbe87a3a2e572e4c28e463637\databinding-adapters-4.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.databinding:databinding-runtime:4.0.0] C:\Users\sorra\.gradle\caches\transforms-2\files-2.1\1cad1a5718a7b382847c06606e6f005c\databinding-runtime-4.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\sorra\.gradle\caches\transforms-2\files-2.1\ed1b8770e1b09e2afbbc3bae456d9b91\constraintlayout-2.0.0-alpha2\AndroidManifest.xml:2:1-11:12
@@ -36,25 +36,25 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.print:print:1.0.0] C:\Users\sorra\.gradle\caches\transforms-2\files-2.1\6083e5aff4a41b4b352509ce72ef01fb\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\sorra\.gradle\caches\transforms-2\files-2.1\df997b88607d3d45e788ff7be2ac00bc\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sorra\.gradle\caches\transforms-2\files-2.1\32691ed1dd96a709bdd6754d66b7ebfd\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml:17:1-37:12
-INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml:17:1-37:12
-INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml:17:1-37:12
 	package
-		ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml:18:5-49
-		INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml:18:5-49
+		INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml:17:1-37:12
-		INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml:17:1-37:12
+		INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml:17:1-37:12
-		INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml:17:1-37:12
+		INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml:17:11-69
+		ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml:17:11-69
 application
-ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml:20:5-35:19
+ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml:20:5-35:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\sorra\.gradle\caches\transforms-2\files-2.1\ed1b8770e1b09e2afbbc3bae456d9b91\constraintlayout-2.0.0-alpha2\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\sorra\.gradle\caches\transforms-2\files-2.1\ed1b8770e1b09e2afbbc3bae456d9b91\constraintlayout-2.0.0-alpha2\AndroidManifest.xml:9:5-20
 MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\sorra\.gradle\caches\transforms-2\files-2.1\59bc7880808e913c382684838b97c382\jetified-timber-4.7.1\AndroidManifest.xml:7:5-20
@@ -66,37 +66,37 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\so
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.0] C:\Users\sorra\.gradle\caches\transforms-2\files-2.1\fb520ca3eef71c75ac477731daeee48b\core-1.0.0\AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml:26:9-35
+		ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml:26:9-35
 	android:label
-		ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml:24:9-41
+		ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml:24:9-41
 	android:roundIcon
-		ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml:25:9-61
+		ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml:25:9-61
 	android:icon
-		ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml:23:9-50
+		ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml:23:9-50
 	android:allowBackup
-		ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml:22:9-35
+		ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml:22:9-35
 	android:theme
-		ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml:27:9-40
+		ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml:27:9-40
 	android:name
-		ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml:21:9-43
+		ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml:21:9-43
 activity#com.example.android.dessertclicker.MainActivity
-ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml:28:9-34:20
+ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml:28:9-34:20
 	android:name
-		ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml:28:19-81
+		ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml:28:19-81
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml:29:13-33:29
+ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml:29:13-33:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml:30:17-69
+ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml:30:17-69
 	android:name
-		ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml:30:25-66
+		ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml:30:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml:32:17-77
+ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml:32:17-77
 	android:name
-		ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml:32:27-74
+		ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml:32:27-74
 uses-sdk
-INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml
 MERGED from [androidx.databinding:databinding-adapters:4.0.0] C:\Users\sorra\.gradle\caches\transforms-2\files-2.1\8efa69dcbe87a3a2e572e4c28e463637\databinding-adapters-4.0.0\AndroidManifest.xml:22:5-44
 MERGED from [androidx.databinding:databinding-adapters:4.0.0] C:\Users\sorra\.gradle\caches\transforms-2\files-2.1\8efa69dcbe87a3a2e572e4c28e463637\databinding-adapters-4.0.0\AndroidManifest.xml:22:5-44
 MERGED from [androidx.databinding:databinding-runtime:4.0.0] C:\Users\sorra\.gradle\caches\transforms-2\files-2.1\1cad1a5718a7b382847c06606e6f005c\databinding-runtime-4.0.0\AndroidManifest.xml:22:5-44
@@ -161,13 +161,13 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\sorra\.gradl
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\sorra\.gradle\caches\transforms-2\files-2.1\df997b88607d3d45e788ff7be2ac00bc\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sorra\.gradle\caches\transforms-2\files-2.1\32691ed1dd96a709bdd6754d66b7ebfd\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sorra\.gradle\caches\transforms-2\files-2.1\32691ed1dd96a709bdd6754d66b7ebfd\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sorra\AndroidStudioProjects\Kotlin-4.2\app\src\main\AndroidManifest.xml

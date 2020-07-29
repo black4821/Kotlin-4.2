@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\sorra\\AndroidStudioProjects\\Kotlin-4.1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\sorra\\AndroidStudioProjects\\Kotlin-4.2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\sorra\\.gradle\\caches\\transforms-2\\files-2.1\\05d5daee654d99d500c3e49979da31ba\\recyclerview-1.0.0-rc01\\res\\values\\values.xml",
@@ -23,37 +23,56 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\sorra\\AndroidStudioProjects\\Kotlin-4.1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "source": "C:\\Users\\sorra\\AndroidStudioProjects\\Kotlin-4.2\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "19,18,22,17,21,20",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "780,735,921,688,874,826",
-                        "endColumns": "45,44,43,46,46,47",
-                        "endOffsets": "821,775,960,730,916,869"
+                        "startLines": "17,20,18,22,21,23,19",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "651,781,704,947,836,987,746",
+                        "endColumns": "52,54,41,39,110,71,34",
+                        "endOffsets": "699,831,741,982,942,1054,776"
                     },
                     "to": {
-                        "startLines": "353,354,362,363,379,380",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "18977,19023,19556,19600,20817,20864",
-                        "endColumns": "45,44,43,46,46,47",
-                        "endOffsets": "19018,19063,19595,19642,20859,20907"
+                        "startLines": "472,473,474,476,477,478,480",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "26565,26618,26673,26768,26808,26919,27062",
+                        "endColumns": "52,54,41,39,110,71,34",
+                        "endOffsets": "26613,26668,26710,26803,26914,26986,27092"
                     }
                 },
                 {
-                    "source": "C:\\Users\\sorra\\AndroidStudioProjects\\Kotlin-4.1\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
+                    "source": "C:\\Users\\sorra\\AndroidStudioProjects\\Kotlin-4.2\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
-                        "startLines": "2",
+                        "startLines": "19",
                         "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "56",
-                        "endOffsets": "107"
+                        "startOffsets": "689",
+                        "endLines": "24",
+                        "endColumns": "12",
+                        "endOffsets": "1007"
                     },
                     "to": {
-                        "startLines": "242",
+                        "startLines": "486",
                         "startColumns": "4",
-                        "startOffsets": "11553",
-                        "endColumns": "56",
-                        "endOffsets": "11605"
+                        "startOffsets": "27539",
+                        "endLines": "491",
+                        "endColumns": "12",
+                        "endOffsets": "27857"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\sorra\\AndroidStudioProjects\\Kotlin-4.2\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "19,17,18,21,22,20",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "790,689,737,877,917,837",
+                        "endColumns": "46,47,52,39,40,39",
+                        "endOffsets": "832,732,785,912,953,872"
+                    },
+                    "to": {
+                        "startLines": "227,228,229,238,239,277",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "10643,10690,10738,11337,11377,13820",
+                        "endColumns": "46,47,52,39,40,39",
+                        "endOffsets": "10685,10733,10786,11372,11413,13855"
                     }
                 },
                 {
@@ -93,37 +112,37 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\sorra\\AndroidStudioProjects\\Kotlin-4.1\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\sorra\\AndroidStudioProjects\\Kotlin-4.2\\app\\src\\main\\res\\values\\dimens.xml",
                     "from": {
-                        "startLines": "17,20,18,22,21,23,19",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "651,781,704,947,836,987,746",
-                        "endColumns": "52,54,41,39,110,71,34",
-                        "endOffsets": "699,831,741,982,942,1054,776"
+                        "startLines": "19,18,22,17,21,20",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "780,735,921,688,874,826",
+                        "endColumns": "45,44,43,46,46,47",
+                        "endOffsets": "821,775,960,730,916,869"
                     },
                     "to": {
-                        "startLines": "472,473,474,476,477,478,480",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "26565,26618,26673,26768,26808,26919,27062",
-                        "endColumns": "52,54,41,39,110,71,34",
-                        "endOffsets": "26613,26668,26710,26803,26914,26986,27092"
+                        "startLines": "353,354,362,363,379,380",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "18977,19023,19556,19600,20817,20864",
+                        "endColumns": "45,44,43,46,46,47",
+                        "endOffsets": "19018,19063,19595,19642,20859,20907"
                     }
                 },
                 {
-                    "source": "C:\\Users\\sorra\\AndroidStudioProjects\\Kotlin-4.1\\app\\src\\main\\res\\values\\colors.xml",
+                    "source": "C:\\Users\\sorra\\AndroidStudioProjects\\Kotlin-4.2\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
                     "from": {
-                        "startLines": "19,17,18,21,22,20",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "790,689,737,877,917,837",
-                        "endColumns": "46,47,52,39,40,39",
-                        "endOffsets": "832,732,785,912,953,872"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
                     },
                     "to": {
-                        "startLines": "227,228,229,238,239,277",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "10643,10690,10738,11337,11377,13820",
-                        "endColumns": "46,47,52,39,40,39",
-                        "endOffsets": "10685,10733,10786,11372,11413,13855"
+                        "startLines": "242",
+                        "startColumns": "4",
+                        "startOffsets": "11553",
+                        "endColumns": "56",
+                        "endOffsets": "11605"
                     }
                 },
                 {
@@ -179,25 +198,6 @@
                         "endLines": "255,256,355,356,357,358,359,360,361,381,382,383,384,385,386,387,388,389,390,391,392,393,394,395,404,405,413,414,420,421,422,423,424,426,432,479,1801,1805,1806,1810,1811,1948,1949,2620,2811,2843,2880,2887",
                         "endColumns": "68,62,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66,24,24,24,24,24",
                         "endOffsets": "12346,12409,19133,19201,19273,19343,19404,19478,19551,20968,21029,21091,21155,21217,21278,21346,21446,21506,21572,21645,21714,21771,21823,21885,22410,22486,22867,22902,23194,23255,23312,23346,23381,23457,23802,27057,115098,115299,115409,115610,115739,126637,126704,162814,180853,182918,184678,185055"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\sorra\\AndroidStudioProjects\\Kotlin-4.1\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "19",
-                        "startColumns": "4",
-                        "startOffsets": "689",
-                        "endLines": "24",
-                        "endColumns": "12",
-                        "endOffsets": "1007"
-                    },
-                    "to": {
-                        "startLines": "486",
-                        "startColumns": "4",
-                        "startOffsets": "27539",
-                        "endLines": "491",
-                        "endColumns": "12",
-                        "endOffsets": "27857"
                     }
                 },
                 {
